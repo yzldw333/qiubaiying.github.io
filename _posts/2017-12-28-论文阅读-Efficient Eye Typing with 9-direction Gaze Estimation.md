@@ -50,4 +50,5 @@ tags:
 	由于不自觉的眨眼时常在0.1-0.17秒，这种方式解决了眨眼问题。
 
 	- 交互输入：T9 method
-
+# Reference
+***Zhang C, Yao R, Cai J. Efficient Eye Typing with 9-direction Gaze Estimation[J]. 2017.***
