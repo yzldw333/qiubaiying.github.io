@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      论文草稿
-subtitle:   MultiGPU-ComputeGradient-坑
+title:      MultiGPU-ComputeGradient-坑
+subtitle:   Issue
 date:       2018-1-10
 author:     顾剑成
 header-img: img/post-bg-ios9-web.jpg
