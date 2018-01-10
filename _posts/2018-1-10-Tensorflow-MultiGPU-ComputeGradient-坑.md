@@ -8,8 +8,7 @@ header-img: img/post-bg-ios9-web.jpg
 catalog: true
 tags:
     - Tensorflow
-    - Multi GPU
-    - 坑
+    - Multi-GPU
     - Issue
     - Gradient
     - Optimizer
