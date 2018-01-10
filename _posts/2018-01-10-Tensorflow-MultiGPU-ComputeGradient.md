@@ -12,11 +12,11 @@ tags:
     - Gradient
 ---
 
-> Environment: Tensorflow-1.2
+
 
 # MultiGPU-ComputeGradient-坑
 ## Issue
-
+> Environment: Tensorflow-1.2
 
 问题是这样的，在使用多GPU进行数据并行的训练时，我们需要针对每个GPU设备单独分配部分的数据，我通过以下代码解决。
 	
