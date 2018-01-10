@@ -1,18 +1,17 @@
 ---
 layout:     post
-title:      MultiGPU-ComputeGradient-坑
+title:      MultiGPU ComputeGradient
 subtitle:   Issue
-date:       2018-1-10
+date:       2018-01-10
 author:     顾剑成
 header-img: img/post-bg-ios9-web.jpg
 catalog: true
 tags:
     - Tensorflow
-    - Multi-GPU
-    - Issue
+    - MultiGPU
     - Gradient
-    - Optimizer
 ---
+
 > Environment: Tensorflow-1.2
 
 # MultiGPU-ComputeGradient-坑
